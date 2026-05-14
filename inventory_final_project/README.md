@@ -248,7 +248,4 @@ python gui.py      # GUI version
 
 ---
 
-<p align="center">
-  Made with ❤️ for NEU DATCOM Lab<br/>
-  <em>Supervised by hung.tran@neu.edu.vn</em>
-</p>
+
