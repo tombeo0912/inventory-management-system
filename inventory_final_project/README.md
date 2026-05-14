@@ -182,7 +182,7 @@ python gui.py      # GUI version
 ## 🗃️ Database Design
 
 <p align="center">
-  <img src="docs/inventory_erd.png" width="700" alt="ER Diagram"/>
+  <img src="docs/ERDiagram of Inventory Management System.png" width="700" alt="ER Diagram"/>
 </p>
 
 | Table | Purpose |
