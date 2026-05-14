@@ -75,46 +75,51 @@
 ## 📂 Project Structure
 
 ```
-inventory-management-system/
-│
-├── sql/
-│   ├── 01_full_project.sql              ← Run this one file to set up everything
-│   ├── 01_create_database_and_tables.sql
-│   ├── 02_indexes.sql
-│   ├── 03_functions_triggers_procedures.sql
-│   ├── 04_views.sql
-│   ├── 05_sample_data.sql
-│   ├── 06_security_backup.sql
-│   └── 07_demo_queries.sql
-│
-├── python_app/
-│   ├── main.py                          ← CLI application (17 options)
-│   ├── gui.py                           ← GUI application (CustomTkinter)
-│   ├── services.py                      ← Business logic / DB queries
-│   ├── db.py                            ← MySQL connection helper
-│   ├── requirements.txt                 ← Python dependencies
-│   └── .env.example                     ← Environment variable template
-│
-├── docs/
-│   ├── inventory_erd.png                ← ER Diagram
-│   ├── inventory_erd.mmd                ← ERD source (Mermaid)
-│   ├── relational_schema.md             ← Schema documentation
-│   ├── cli_preview.png                  ← CLI screenshot
-│   └── screenshots/                     ← GUI screenshots for README
-│       ├── gui_login.png
-│       ├── gui_dashboard.png
-│       ├── gui_stock.png
-│       └── gui_chart.png
-│
-├── submission/
-│   ├── report_inventory_management.pdf
-│   └── final_submission_report_with_assignment.pdf
+inventory_final_project/
 │
 ├── assets/
-│   └── original_assignment.pdf
+│   └── original_assignment.pdf          ← Original project assignment PDF
 │
-├── .gitignore
-└── README.md
+├── docs/
+│   ├── screenshots/
+│   │   ├── gui_chart.png                ← GUI turnover report screenshot
+│   │   ├── gui_dashboard.png            ← GUI dashboard screenshot
+│   │   ├── gui_login.png                ← GUI login screenshot
+│   │   └── gui_stock.png                ← GUI stock/warehouse screenshot
+│   │
+│   ├── cli_preview.png                  ← CLI application screenshot
+│   ├── ERDiagram of Inventory Management System.png
+│   │                                     ← ER diagram image
+│   ├── inventory_erd.mmd                ← ERD source (Mermaid)
+│   ├── Relational Schema Diagram of the Inventory Management System.png
+│   │                                     ← Relational schema diagram
+│   └── relational_schema.md             ← Relational schema documentation
+│
+├── python_app/
+│   ├── __pycache__/                     
+│   ├── .env.example                     ← Environment variable template
+│   ├── db.py                            ← MySQL connection helper
+│   ├── GUI.py                           ← GUI application (CustomTkinter)
+│   ├── main.py                          ← CLI application
+│   ├── requirements.txt                 ← Python dependencies
+│   └── services.py                      ← Business logic / DB queries
+│
+├── sql/
+│   ├── 01_create_database_and_tables.sql
+│   │                                     ← Create database and tables
+│   ├── 01_full_project.sql              ← Run this file to set up the full project
+│   ├── 02_indexes.sql                   ← Index definitions
+│   ├── 03_functions_triggers_procedures.sql
+│   │                                     ← Stored procedures, functions, triggers
+│   ├── 04_views.sql                     ← SQL views
+│   ├── 05_sample_data.sql               ← Sample data insertion
+│   ├── 06_security_backup.sql           ← Security roles and backup notes
+│   └── 07_demo_queries.sql              ← Demo/test queries
+│
+├── submission/
+│   └── final_submission_report_....pdf  ← Final report PDF
+│
+└── README.md                            ← Project overview and usage guide
 ```
 
 ---
