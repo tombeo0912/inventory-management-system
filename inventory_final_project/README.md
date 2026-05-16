@@ -136,7 +136,7 @@ The system supports:
 
 ### 1) Clone or download the project
 ```bash
-git clone <https://github.com/tombeo0912/inventory-management-system.git>
+git clone https://github.com/tombeo0912/inventory-management-system.git
 cd inventory_final_project
 ```
 
@@ -328,10 +328,12 @@ This repository contains the core project deliverables:
 
 ## 👨‍🎓 Author
 
-**Vũ Đức Anh**  
-**Student ID:** 11245840
-**Class: DSEB66B**
-**University: National Economics University**
+| | |
+|---|---|
+| **Họ tên** | Vũ Đức Anh |
+| **Student ID** | 11245840 |
+| **Class** | DSEB66B |
+| **University** | National Economics University |
 ---
 
 ## 📚 References
