@@ -312,8 +312,8 @@ This repository contains the core project deliverables:
 
 ## 🎥 Demo
 
-- **GitHub Repository:** `[Add your GitHub link here]`
-- **YouTube Demo:** `[Add your YouTube demo link here]`
+- **GitHub Repository:** `https://github.com/tombeo0912/inventory-management-system.git`
+- **YouTube Demo:** `https://youtu.be/6MoBctTNVW4`
 
 ---
 
