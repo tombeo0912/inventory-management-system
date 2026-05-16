@@ -330,7 +330,8 @@ This repository contains the core project deliverables:
 
 **Vũ Đức Anh**  
 **Student ID:** 11245840
-
+**Class: DSEB66B**
+**University: National Economics University**
 ---
 
 ## 📚 References
