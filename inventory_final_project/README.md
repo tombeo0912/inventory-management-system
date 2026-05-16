@@ -336,7 +336,7 @@ This repository contains the core project deliverables:
 
 ---
 
-## 👨‍🎓 Author
+## 🎓 Author
 
 | | |
 |---|---|
