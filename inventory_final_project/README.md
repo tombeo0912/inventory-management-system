@@ -136,7 +136,7 @@ The system supports:
 
 ### 1) Clone or download the project
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/tombeo0912/inventory-management-system.git>
 cd inventory_final_project
 ```
 
