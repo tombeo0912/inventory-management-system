@@ -205,13 +205,10 @@ python GUI.py
 
 Default demo accounts used in the application:
 
-- **Admin**
-  - Username: `admin`
-  - Password: `admin123`
-
-- **Inventory Manager**
-  - Username: `manager`
-  - Password: `manager123`
+| Role | Username | Password |
+|---|---|---|
+| Admin | `admin` | `admin123` |
+| Inventory Manager | `manager` | `manager123` |
 
 > These credentials are intended for demonstration/testing purposes only.
 
