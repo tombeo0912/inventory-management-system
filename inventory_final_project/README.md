@@ -21,6 +21,16 @@
   <img src="https://img.shields.io/badge/CLI-17%20Features-111827?style=flat-square"/>
 </p>
 
+## 📑 Table of Contents
+- [Project Overview](#-project-overview)
+- [Main Features](#-main-features)
+- [Screenshots](#-screenshots)
+- [Database Design](#-database-design)
+- [Tech Stack](#%EF%B8%8F-tech-stack)
+- [How to Run](#-how-to-run)
+- [Project Structure](#-project-structure)
+- [Demo](#-demo)
+- [Author](#-author)
 ---
 
 ## 📘 Project Overview
